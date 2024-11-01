@@ -1,0 +1,125 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the same license as the WPC Copy Billing Address for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Copy Billing Address for WooCommerce 1.1.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-copy-billing-address\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-24T02:36:06+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-copy-billing-address\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Copy Billing Address for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Help buyers copy the whole billing address to the shipping address with one click."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-copy-billing-address.php:88
+#: wpc-copy-billing-address.php:185
+msgid "All shipping information will be copied from existing billing details, do you wish to continue?"
+msgstr ""
+
+#: wpc-copy-billing-address.php:104
+#: wpc-copy-billing-address.php:166
+msgid "Copy billing address"
+msgstr ""
+
+#: wpc-copy-billing-address.php:115
+#: wpc-copy-billing-address.php:125
+msgid "WPC Copy Billing Address"
+msgstr ""
+
+#: wpc-copy-billing-address.php:115
+msgid "Copy Billing Address"
+msgstr ""
+
+#. translators: stars
+#: wpc-copy-billing-address.php:128
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-copy-billing-address.php:130
+msgid "Reviews"
+msgstr ""
+
+#: wpc-copy-billing-address.php:131
+msgid "Changelog"
+msgstr ""
+
+#: wpc-copy-billing-address.php:132
+msgid "Discussion"
+msgstr ""
+
+#: wpc-copy-billing-address.php:137
+msgid "Settings updated."
+msgstr ""
+
+#: wpc-copy-billing-address.php:143
+#: wpc-copy-billing-address.php:227
+msgid "Settings"
+msgstr ""
+
+#: wpc-copy-billing-address.php:146
+msgid "Essential Kit"
+msgstr ""
+
+#: wpc-copy-billing-address.php:159
+msgid "General"
+msgstr ""
+
+#: wpc-copy-billing-address.php:160
+msgid "General settings."
+msgstr ""
+
+#: wpc-copy-billing-address.php:163
+msgid "Button text"
+msgstr ""
+
+#: wpc-copy-billing-address.php:168
+#: wpc-copy-billing-address.php:187
+msgid "Leave blank to use the default text or its equivalent translation in multiple languages."
+msgstr ""
+
+#: wpc-copy-billing-address.php:172
+msgid "Confirmation"
+msgstr ""
+
+#: wpc-copy-billing-address.php:175
+msgid "Yes"
+msgstr ""
+
+#: wpc-copy-billing-address.php:176
+msgid "No"
+msgstr ""
+
+#: wpc-copy-billing-address.php:178
+msgid "Enable confirmation alert before changing."
+msgstr ""
+
+#: wpc-copy-billing-address.php:182
+msgid "Confirmation message"
+msgstr ""
+
+#: wpc-copy-billing-address.php:243
+msgid "Community support"
+msgstr ""
